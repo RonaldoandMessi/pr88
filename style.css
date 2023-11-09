@@ -1,0 +1,16 @@
+#MyCanvas
+{
+    border-width:10px;
+    border-style:ridge dotted solid double;
+	border-color: red;
+	background-image:url(Grass.jpg);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: fantasy;
+}
+
